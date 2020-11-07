@@ -1,0 +1,6 @@
+ファイル名のフォーマット: [mw](1)_(2)_(3).jpeg
+m: mens
+w: womens
+(1): 画像ID
+(2): favorite数
+(3): view数
